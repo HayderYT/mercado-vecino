@@ -1,0 +1,9 @@
+{
+  "name": "mercado-vecino-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "mkdir -p dist && echo '<html><body><h1>Mercado Vecino App</h1></body></html>' > dist/index.html"
+  }
+}
